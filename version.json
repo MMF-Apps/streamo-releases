@@ -1,10 +1,12 @@
 {
-  "latest_version": "1.0.0",
+  "version": "1.0.0",
   "build_number": 1,
+  "android_url": "https://github.com/MMF-Apps/streamo-releases/releases/download/v1.0.0/streamo-v1.0.0.apk",
+  "windows_url": "https://github.com/MMF-Apps/streamo-releases/releases/download/v1.0.0/Streamo-Setup-v1.0.0.exe",
   "force_update": false,
-  "apk_url": "https://github.com/MMF-Apps/streamo-releases/releases/download/v1.0.0/streamo-v1.0.0.apk",
-  "windows_url": "https://github.com/MMF-Apps/streamo-releases/releases/download/v1.0.0/streamo-windows-v1.0.0.zip",
-  "release_notes_en": "Initial official release of Streamo.",
-  "release_notes_ar": "الإصدار الرسمي الأول من تطبيق Streamo.",
-  "release_notes_fr": "Première version officielle de Streamo."
+  "release_notes": {
+    "ar": "الإصدار الرسمي الأول من تطبيق Streamo",
+    "en": "Official initial release of Streamo",
+    "fr": "Première version officielle de Streamo"
+  }
 }
