@@ -4,7 +4,7 @@
   "force_update": true,
   "apk_url": "https://github.com/MMF-Apps/streamo-releases/releases/download/v2.0.0/streamo-v2.0.0.apk",
   "windows_url": "https://github.com/MMF-Apps/streamo-releases/releases/download/v2.0.0/Streamo-Setup-v2.0.0.exe",
-  "release_notes_en": "• Performance optimization and smoother playback stability.\n• Fixed several bugs and improved overall reliability.\n• Added Split Screen mode.\n• Added Backup & Restore.\n• Added quick return to Previous Channel.",
-  "release_notes_ar": "• تحسين الأداء والأوبتمايزيشن واستقرار وسلاسة التشغيل.\n• إصلاح العديد من الأخطاء وتحسين موثوقية التطبيق.\n• إضافة وضع الشاشة المقسومة (Split Screen).\n• إضافة ميزة النسخ الاحتياطي والاستعادة (Backup & Restore).\n• إضافة إمكانية الرجوع للقناة السابقة (Previous Channel).",
-  "release_notes_fr": "• Optimisation des performances et meilleure stabilité de lecture.\n• Correction de plusieurs bugs et amélioration de la fiabilité.\n• Ajout du mode Split Screen.\n• Ajout de la sauvegarde et restauration (Backup & Restore).\n• Ajout du retour rapide à la chaîne précédente."
+  "release_notes_en": "• Performance optimization and smoother playback stability.\n• Fixed several bugs and improved overall reliability.\n• Added Split Screen mode.\n• Added Backup & Restore.\n• Added quick return to Previous Channel.\n• And some other additions.",
+  "release_notes_ar": "• تحسين الأداء والأوبتمايزيشن واستقرار وسلاسة التشغيل.\n• إصلاح العديد من الأخطاء وتحسين موثوقية التطبيق.\n• إضافة وضع الشاشة المقسومة (Split Screen).\n• إضافة ميزة النسخ الاحتياطي والاستعادة (Backup & Restore).\n• إضافة إمكانية الرجوع للقناة السابقة (Previous Channel).\n• وبعض الإضافات الأخرى.",
+  "release_notes_fr": "• Optimisation des performances et meilleure stabilité de lecture.\n• Correction de plusieurs bugs et amélioration de la fiabilité.\n• Ajout du mode Split Screen.\n• Ajout de la sauvegarde et restauration (Backup & Restore).\n• Ajout du retour rapide à la chaîne précédente.\n• Et quelques autres ajouts."
 }
