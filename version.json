@@ -1,6 +1,6 @@
 {
   "latest_version": "2.0.0",
-  "build_number": 3,
+  "build_number": 2,
   "force_update": true,
   "apk_url": "https://github.com/MMF-Apps/streamo-releases/releases/download/v2.0.0/streamo-v2.0.0.apk",
   "windows_url": "https://github.com/MMF-Apps/streamo-releases/releases/download/v2.0.0/Streamo-Setup-v2.0.0.exe",
